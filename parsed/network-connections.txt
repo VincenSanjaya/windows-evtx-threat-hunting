@@ -1,0 +1,14 @@
+Time | EventID | Image | User | SourceIP:Port -> DestinationIP:Port
+------------------------------------------------------------------------------------------------------------------------
+2019-09-03 11:04:07.207048+00:00 | 3 | C:\Windows\System32\inetsrv\w3wp.exe | IIS APPPOOL\DefaultAppPool | 127.0.0.1:49947 -> 127.0.0.1:3389
+2019-09-03 11:04:07.207130+00:00 | 3 | C:\Windows\System32\svchost.exe | NT AUTHORITY\NETWORK SERVICE | 127.0.0.1:3389 -> 127.0.0.1:49947
+2019-09-03 11:04:56.358688+00:00 | 3 | C:\Windows\System32\inetsrv\w3wp.exe | IIS APPPOOL\DefaultAppPool | 127.0.0.1:49948 -> 127.0.0.1:3389
+2019-09-03 11:04:58.463053+00:00 | 3 | C:\Windows\System32\svchost.exe | NT AUTHORITY\NETWORK SERVICE | 127.0.0.1:3389 -> 127.0.0.1:49948
+2019-09-03 11:05:22.837679+00:00 | 3 | System | NT AUTHORITY\SYSTEM | 10.0.2.15:137 -> 10.255.255.255:137
+2019-09-03 11:05:22.837749+00:00 | 3 | System | NT AUTHORITY\SYSTEM | 10.255.255.255:137 -> 10.0.2.15:137
+2019-09-03 11:33:24.177710+00:00 | 3 | C:\Windows\System32\inetsrv\w3wp.exe | IIS APPPOOL\DefaultAppPool | 127.0.0.1:49949 -> 127.0.0.1:445
+2019-09-03 11:33:24.177923+00:00 | 3 | System | NT AUTHORITY\SYSTEM | 127.0.0.1:445 -> 127.0.0.1:49949
+2019-09-03 11:34:37.129225+00:00 | 3 | C:\Windows\System32\inetsrv\w3wp.exe | IIS APPPOOL\DefaultAppPool | 127.0.0.1:49950 -> 127.0.0.1:445
+2019-09-03 11:34:37.129370+00:00 | 3 | System | NT AUTHORITY\SYSTEM | 127.0.0.1:445 -> 127.0.0.1:49950
+2019-09-03 11:36:26.005428+00:00 | 3 | System | NT AUTHORITY\SYSTEM | 10.0.2.15:137 -> 10.255.255.255:137
+2019-09-03 11:36:26.005493+00:00 | 3 | System | NT AUTHORITY\SYSTEM | 10.255.255.255:137 -> 10.0.2.15:137
